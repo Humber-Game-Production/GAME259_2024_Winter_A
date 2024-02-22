@@ -24,10 +24,14 @@
 		},
 		{
 			"Name": "Water",
-      "Enabled": true
+			"Enabled": true
 		},
 		{
 			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
 	]
