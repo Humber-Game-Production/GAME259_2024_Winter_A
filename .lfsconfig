@@ -1,0 +1,4 @@
+[lfs]
+	setlockablereadonly = false
+[lfs "https://github.com/Humber-Game-Production/GAME259_2024_Winter_A.git/info/lfs"]
+	locksverify = false
