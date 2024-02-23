@@ -24,11 +24,15 @@
 		},
 		{
 			"Name": "Water",
-      "Enabled": true
+			"Enabled": true
 		},
 		{
 			"Name": "CommonUI",
 			"Enabled": true
+		},
+		{
+			"Name": "GitSourceControl",
+			"Enabled": false
 		}
 	]
 }
