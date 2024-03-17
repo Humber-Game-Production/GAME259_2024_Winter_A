@@ -33,7 +33,7 @@
 		{
 			"Name": "GitSourceControl",
 			"Enabled": false
-    },
+		},
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
