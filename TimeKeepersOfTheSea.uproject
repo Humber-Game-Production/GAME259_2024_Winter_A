@@ -31,11 +31,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GitSourceControl",
-			"Enabled": false
-		},
-		{
-			"Name": "NiagaraFluids",
+			"Name": "SunPosition",
 			"Enabled": true
 		}
 	]
